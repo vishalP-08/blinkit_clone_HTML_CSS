@@ -1,4 +1,4 @@
-
+<div align="center">
   <h2 align="center">Blinkit - A Clone Website Model</h2>
 
   Blinkit and formerly Grofers, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
