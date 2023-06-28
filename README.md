@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Foodie Desktop Demo](./Images/I-1.png "Desktop Demo")
+![Blinkit Desktop Demo](./Images/I-1.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Foodie** locally, run this command on your git bash:
+To run **Blinkit** locally, run this command on your git bash:
 
 Linux and macOS:
 
