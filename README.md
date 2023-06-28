@@ -37,5 +37,5 @@ git clone https://vishalp-08.github.io/blinkit_clone_HTML_CSS/
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [WhatsApp](https://wa.me/917992199075).
 
