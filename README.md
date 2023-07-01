@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Blinkit Desktop Demo](./Images\I-1.jpg "Desktop Demo")
+![Blinkit Desktop Demo]("./Images/I-1.jpg"Desktop Demo")
 
 ### Prerequisites
 
