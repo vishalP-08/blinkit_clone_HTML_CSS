@@ -470,3 +470,15 @@ padding-top: 20;
     -webkit-box-align: center;
     align-items: center;
 }
+.footer2{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+ font-size: large;
+  
+}
+.fa-heart{
+  margin: 0px 4px;
+  padding-top: 4px;
+}
